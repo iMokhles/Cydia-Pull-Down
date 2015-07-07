@@ -1,0 +1,9 @@
+Package: com.imokhles.cydiapulldown
+Name: Cydia Pull Down
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: pull down to refresh
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
